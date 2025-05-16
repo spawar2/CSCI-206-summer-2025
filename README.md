@@ -9,7 +9,9 @@ Fundamentals of Programming (topics including inheritance, msg passing, poly
 ![download](https://github.com/user-attachments/assets/9507cf65-9976-4cf9-a2e8-fdf949f871ca)
 
 [Git Version Control:](https://youtu.be/IM56cFOyCZM)
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 [Github:](https://github.com/spawar2/Object-Oriented-Programming-Laboratory)
 **Undergraduate Class & Lab https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
 https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
